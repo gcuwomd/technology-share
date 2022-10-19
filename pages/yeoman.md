@@ -23,13 +23,21 @@ layout:cover
 <br/>大部分人做法:我们一般首先用 Vite 等脚手架工具生成一个项目然后再开发。
 <br/><br/>
 这样做有什么不好？
+<br/><br/>
+假如你开发的是 Vue 项目,用了 Vite 生成了一个工程,你还是要安装并配置诸如 vuex , axios , vue-router 等等的库。这个就有点麻烦了,为什么我们不开发一个项目生成器帮助我更快完成任务呢？而Yeoman 就是
+用来快速开发运行私人的代码生成器的一个工具。
 </p>
 
 </div>
 </div>
 <div class="flex justify-center flex-col h-85">
 
-![yeoman](https://yeoman.io/static/illustration-home-inverted.91b07808be.png)
+```js
+# 安装
+npm install -g yo
+```
+
+![yeoman](/img/yo.png)
 </div>
 
 </div>
