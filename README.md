@@ -9,6 +9,12 @@ yarn
 yarn dev
 ```
 ## 第一期概览(2022.10.19)
-- MarkDoc
-- Tldr
-- Yeoman
+- MarkDoc (Markdown 的超集)
+- Tldr (命令小抄工具)
+- Yeoman (脚手架开发)
+## 第二期概览(2022.10.28)
+- Daisyui (一个基于 Tailwind CSS 的组件库)
+- 赫蹏 (中文排版工具)
+- Tauri (让你可以使用前端技术搭建桌面应用的工具)
+
+
