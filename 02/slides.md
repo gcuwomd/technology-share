@@ -38,6 +38,6 @@ background: https://source.unsplash.com/collection/94734566/1920x1080
 
 ---
 theme: seriph
-src: ./pages/yeoman.md
+src: ./pages/tauri.md
 background: https://source.unsplash.com/collection/94734566/1920x1080
 ---
