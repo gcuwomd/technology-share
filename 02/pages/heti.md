@@ -3,41 +3,33 @@ layout: cover
 ---
 # 02 赫蹏
 <div class="flex justify-center">
-<p class="w-71 text-center text-zinc-300">Tldr 是命令行小抄工具,帮助你查询一些命令的用法</p>
+<p class="w-71 text-center text-zinc-300">赫蹏（hètí）是一个中文的排版工具</p>
 </div>
 
 ---
 layout:cover
 ---
-# 02 Tldr
+# 02 赫蹏
 
-[官网](https://tldr.sh/)
+[官网](https://sivan.github.io/heti/)
 
 <div grid="~ cols-2 gap-4">
 
 <div class="h-85 flex justify-center items-center">
 
-<div v-if="$slidev.nav.clicks === 0" class="w-96 text-right">
+<div v-if="$slidev.nav.clicks === 0" class="w-96 text-center">
 <p>
-你是否有过在 Linux 环境下想用某个命令,<br />但是这个命令你又不太熟悉它的用法的经历？
-</p>
-<p>而 Tldr 就是为了解决这情况而生的,它会用最简单的例子教会你如何使用这个命令。<br/>
-比如:你不会 tar 命令的用法<br/>键入：
-<span >
+赫蹏（hètí）是一个不错的中文排版工具，截至现在它的 Github Start 数高达 5.1K 可见大家对它的喜爱。
+它向我们提供了诸如："标点挤压"等等功能是我们在开发中文页面时，变得更加美观。
 
-```js
-npm install -g tldr
-tldr tar
-```
-</span>即可查询到 tar 命令用法
+[什么还不知道什么叫标点挤压？](https://www.bilibili.com/video/BV1Lr4y127qp/?share_source=copy_web&vd_source=baab7ec3bd533a74f677f255ae86f108) 
 </p>
-
 
 </div>
 </div>
 <div class="flex justify-center flex-col h-85">
 
-![tldr演示](img/tldr.gif)
+<h1 class="text-center">赫蹏</h1>
 </div>
 
 </div>
