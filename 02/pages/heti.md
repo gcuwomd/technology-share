@@ -1,7 +1,7 @@
 ---
 layout: cover
 ---
-# 02 Tldr
+# 02 赫蹏
 <div class="flex justify-center">
 <p class="w-71 text-center text-zinc-300">Tldr 是命令行小抄工具,帮助你查询一些命令的用法</p>
 </div>
